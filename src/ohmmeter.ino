@@ -1,7 +1,5 @@
 /*************************************
-EE 425 
 Ohmmeter Project Code
-Professor Arnie Berger and Professor Joe Decuir
 Code by Danny Kha and Max Kelton
 ***************/
 
